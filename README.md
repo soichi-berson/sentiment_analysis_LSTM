@@ -1,4 +1,4 @@
-# sentiment_analysis_LSTM_model
+# Sentiment Analysis using LSTM model
 Enhancing Sentiment Analysis Performance with LSTM Models: A Comparative Study
 
 ## Introduction
