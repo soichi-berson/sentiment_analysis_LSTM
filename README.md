@@ -2,7 +2,7 @@
 Enhancing Sentiment Analysis Performance with LSTM Models: A Comparative Study
 
 ## Introduction
-This is a AI project using Python, conducted by Soichiro Tanabe based on the studies from the Open University module: 'AI nad Machine Learning'.
+This is a AI project using Python, conducted by Soichiro Tanabe based on the studies from the Open University module: 'AI and Machine Learning'.
 
 ## Data Sources
 Kaggle ([available from Kaggle](https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews))
